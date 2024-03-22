@@ -61,4 +61,8 @@ We were enable to find following Fonts, Please add manually to ```Resources/Font
 ```
 Poppins-Medium
 Poppins-SemiBold
-Poppins-Regular```
+Poppins-Regular
+```
+
+### Design of my app
+![Image Alt text](images/Group25.png "Screenshot")
